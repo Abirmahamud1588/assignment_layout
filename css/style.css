@@ -1,0 +1,73 @@
+body{
+    margin: auto;
+    
+}
+header{
+    width: 100%;
+    height: 60px;
+    background: #1db7da;
+    
+    
+}
+.layout {
+    width: 1200px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo {
+    float: left;
+    width: 20%;
+    height: 60px;
+}
+.menu{
+    float: left;
+    width: 80%;
+    height: 60px;
+    
+}
+ul{
+    float: left;
+}
+li {
+    float: inline-start;
+    list-style: none;
+    float: left;
+}
+a {
+    text-decoration: none;
+    margin: ;
+    margin-right: 39px;
+    padding: 5px;
+    border: 2px solid deeppink;
+}
+a:hover{
+    color: black;
+    
+}
+.container{
+    width: 1200px;
+    height: 800px;
+    background: #a1e6d9;
+    margin: auto;
+    padding: 1px;
+    text-align: center;
+    
+}
+.container h1{
+    font-family: monospace;
+    font-size: 25px;
+    color: #5e0e94;
+}
+.container img{
+    width: 400px;
+    height: 400px;
+}
+.container p{
+    
+     font-family: monospace;
+    font-size: 25px;
+    color: black;text-align: justify;
+}
+
+
